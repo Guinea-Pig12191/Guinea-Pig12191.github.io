@@ -54,12 +54,13 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Positive?",
-    "Pretty please?",
+    "Please :)",
+    "You're clicking the wrong button",
+    "Pleaseeeeeee",
     "Pleasepleasepleasepleasepleasepleasepleasepleasepleaseplease",
     ":)",
-    "Ok fine",
+    "Fine, well I'm still cooking you dinner tonight",
+    "Ok click yes now pls",
 ];
 
 let messageIndex = 0;
