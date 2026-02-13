@@ -55,12 +55,13 @@
 */
 const messages = [
     "Please :)",
-    "You're clicking the wrong button",
-    "Pleaseeeeeee",
-    "Pleasepleasepleasepleasepleasepleasepleasepleasepleaseplease",
-    ":)",
-    "Fine, well I'm still cooking you dinner tonight",
-    "Ok click yes now pls",
+    "Pretty please :)",
+    "You're quite clearly clicking the wrong button 👀",
+    "You just want to see how big the 'Yes' button gets?",
+    "You clearly underestimate my front-end coding ability",
+    "The 'Yes' will literally just keep getting bigger",
+    "Ok fine click yes now pls",
+    "Still cooking you dinner tonight btw",
 ];
 
 let messageIndex = 0;
